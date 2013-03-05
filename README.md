@@ -4,7 +4,13 @@
 
 =======
 
+## usage
 
+At a prompt:
+
+./unpages.sh 'why did you send me a pages file.pages'
+or
+./unpages.sh why\ did\ you\ send\ me\ a\ pages\ file.pages 
 
 ### Already too involved to justify its own existance
 

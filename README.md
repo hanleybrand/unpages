@@ -1,7 +1,6 @@
 # unpages
 
 ## ...or just unzip it and just drag the Preview.pdf file out
-
 =======
 
 ## usage
@@ -14,9 +13,12 @@ or
 
     ./unpages.sh why\ did\ you\ send\ me\ a\ pages\ file.pages 
 
-### Already too involved to justify its own existance
+### This script is already too involved to have justified its own existance
+
+<img src="https://raw.github.com/hanleybrand/unpages/master/unpages.png" align="right">
 
 So, someone sends you that file you need.  
+
 
     ".pages?  WTF?"  
 
